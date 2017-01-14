@@ -6,19 +6,21 @@
 3.HTML5权威指南
 
 ## 书籍篇(进阶)
-1.Web性能权威指南
+1.Javascript高级编程设计
 
 2.锋利的jQUery
 
-3.Javascript数据结构与算法
+3.悟透Javascript
 
-4.编写可维护的Javascript
+4.CSS揭秘
 
-5.悟透Javascript
+5.Web性能权威指南
 
-6.CSS揭秘
+6.Javascript数据结构与算法
 
-7.Web前端黑客技术揭秘
+7.编写可维护的Javascript
+
+8.Web前端黑客技术揭秘
 
 ## 前端工程
 ### 预编译
