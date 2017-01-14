@@ -5,6 +5,29 @@ CSS权威指南
 
 HTML5权威指南
 
+## NodeJs篇
+### 框架
+1.express
+
+2.koa
+### 开发必备库
+1.node-supervisor
+
+2.node-inspector
+
+3.node-formidable
+
+4.pm2(forever)
+
+5.node-schedule
+
+6.mysql
+
+7.log4js
+
+8.bluebird
+
+9.nodemailer
 
 ## 工具篇
 
