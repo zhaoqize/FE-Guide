@@ -51,6 +51,32 @@
 ### 持续集成
 1.Travis CI
 
+## React篇
+
+### "语言"
+1.es6
+
+2.babel
+
+3.jsx
+
+### 常用库
+
+1.react
+
+2.react-dom
+
+3.react-router
+
+4.isomorphic-fetch
+
+5.whatwg-fetch
+
+### 状态管理
+1.mobx
+
+2.redux
+
 ## NodeJs篇
 
 ### 框架
