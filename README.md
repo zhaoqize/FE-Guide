@@ -19,11 +19,43 @@
 6.CSS揭秘
 
 7.Web前端黑客技术揭秘
+
+## 前端工程
+### 预编译
+1.less
+
+2.sass
+
+3.typescript
+
+### 构建工具
+1.gurnt
+
+2.gulp
+
+3.fis3
+
+4.webpack
+
+### 单元测试
+1.mocha
+
+2.chai
+
+3.rewire
+
+4.istanbul
+
+### 持续集成
+1.Travis CI
+
 ## NodeJs篇
+
 ### 框架
 1.express
 
 2.koa
+
 ### 开发必备库
 1.node-supervisor
 
@@ -43,13 +75,21 @@
 
 9.nodemailer
 
+### 有待商榷的库
+
+orm
+1.node-orm2
+2.sequelize
+
 ## 工具篇
+
 ## 编辑器
 1.sublime
 
 2.xcode
 
 3.atom
+
 ### 翻译
 有道词典：作为我们常用的翻译文章单词的随手工具是必不可少的利器。
 
