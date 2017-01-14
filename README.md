@@ -22,7 +22,13 @@
 
 8.Web前端黑客技术揭秘
 
+## 模板引擎
+1.jade
+
+2.Handlebars
+
 ## 前端工程
+
 ### 预编译
 1.less
 
@@ -52,7 +58,6 @@
 1.Travis CI
 
 ## React篇
-
 ### "语言"
 1.es6
 
@@ -61,7 +66,6 @@
 3.jsx
 
 ### 常用库
-
 1.react
 
 2.react-dom
@@ -104,15 +108,12 @@
 9.nodemailer
 
 ### 有待商榷的库
-
 #### orm
-
 1.node-orm2
 
 2.sequelize
 
 ## 开发平台篇
-
 1.windows
 
 2.ubuntu
@@ -120,7 +121,6 @@
 3.centos
 
 ## 工具篇
-
 ### 编辑器
 1.sublime
 
