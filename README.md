@@ -77,8 +77,10 @@
 
 ### 有待商榷的库
 
-orm
+#### orm
+
 1.node-orm2
+
 2.sequelize
 
 ## 工具篇
