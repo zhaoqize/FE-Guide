@@ -153,6 +153,13 @@ electron是一个现在非常流行的一个桌面应用开发库，从2016年�
 
 
 ## 工具篇
+### chrome浏览器应用
+1. Notty Notes
+
+2.Adblock
+
+3.Bookmarks
+
 ### 编辑器
 1.sublime
 
