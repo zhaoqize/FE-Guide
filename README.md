@@ -154,11 +154,27 @@ electron是一个现在非常流行的一个桌面应用开发库，从2016年�
 
 ## 工具篇
 ### chrome浏览器应用
-1. Notty Notes
+1.Notty Notes
 
 2.Adblock
 
-3.Bookmarks
+3.Bookmark Manager
+
+4.Axure RP Extension for Chrome
+
+5.JSONView
+
+6.Postman
+
+7.React Developer Tools
+
+8.Vue.js devtools
+
+9.YSlow
+
+10.掘金
+
+11.马克飞象
 
 ### 编辑器
 1.sublime
