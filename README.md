@@ -39,26 +39,30 @@
 3.typescript
 
 ### 构建工具
-1.gurnt
+### gurnt
 
 老牌的前端构建工具
 
-2.gulp
+### gulp
 
 想要替代grunt的构建工具，是grunt的升级版。
 
-3.fis3
+### fis3
 
 一个百度开发的构建工具
 
-4.webpack
+### webpack
 
 现在比较火的构建工具，与react,vue结合做单页面开发较多。
+
+1.webpack
+
+2.webpack-dev-server
 
 ### 单元测试
 1.mocha
 
-mocha是一个单元测试框架，可以继承各种断言库，比如chai。小巧，轻量。
+mocha是一个单元测试框架，可以配合各种断言库，比如chai。小巧，轻量。
 
 2.chai
 
@@ -79,15 +83,25 @@ istanbul用来测试代码覆盖率
 
 ## React篇
 ### "语言"
-1.es6
+### es6
 
-2.babel
+### babel
+babel-core
 
-3.jsx
+babel-loader
+
+babel-plugin-transform-decorators-legacy //es7语法
+
+babel-preset-es2015
+
+babel-preset-react
+
+babel-preset-stage-1
+### jsx
 
 ### 常用库
 1.react
-
+    
 2.react-dom
 
 3.react-router
@@ -97,9 +111,10 @@ istanbul用来测试代码覆盖率
 5.whatwg-fetch
 
 ### 状态管理
-1.mobx
+### mobx
+1.mobx-react
 
-2.redux
+### redux
 
 ## NodeJs篇
 
