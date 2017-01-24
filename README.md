@@ -1,11 +1,11 @@
-## 书籍篇(基础)
+## 一、书籍篇(基础)
 1.[JavaScript权威指南](http://note.youdao.com/noteshare?id=b6f02ed9c2c6abff05bd9c70fc8cd197&sub=42E4712CF7304F6883F26749085362DD)
 
 2.[CSS权威指南](http://note.youdao.com/noteshare?id=cb71b0f276145a64dc79acac8d470c19&sub=419E25D845084C7EA6B1C2D63675495E)
 
 3.HTML5权威指南
 
-## 书籍篇(进阶)
+## 二、书籍篇(进阶)
 1.Javascript高级编程设计
 
 2.[锋利的jQUery](http://note.youdao.com/noteshare?id=0dab9597b5123fce772d3bb6d0594d31&sub=83908E5D2A4B4EE9A16828A7A92390D9)
@@ -28,7 +28,7 @@
 
 11.[Javascript函数式编程](http://note.youdao.com/noteshare?id=bb9ca71251d184b0fad776bbe217a2e8&sub=4FB94CE55A2542358BFA2EA0BD120408)
 
-## NodeJs书籍
+## 三、NodeJs书籍
 1.[NodeJs手册](http://note.youdao.com/noteshare?id=7f0fadee2ba1bbeffde9d99ecd1f3e5a&sub=973E52D1D16A4FA088083B02ADB64C52)
 
 2.[NodeJs开发指南](http://note.youdao.com/noteshare?id=69c672d4b0d61032d162bde2339e7d09&sub=689A58814F414E6EB05240BC4FE4D520)
@@ -38,7 +38,7 @@
 4.NodeJs的深入浅出
 
 5.NodeJs与Express开发
-## 模板引擎
+## 四、模板引擎
 1.Jade(Pug)
 
 Jade是一种服务端的模板引擎，常见于nodejs的项目中，还有一个是ejs。
@@ -72,10 +72,10 @@ Handlebars是前端模板引擎。
 
 [Handlebars模板引擎之上手](http://www.cnblogs.com/zqzjs/p/6233479.html)
 
-## UI
+## 五、UI
 
 
-## 前端工程
+## 六、前端工程
 
 ### 预编译
 1.less
@@ -129,7 +129,7 @@ istanbul用来测试代码覆盖率
 
 现在一个比较火的在线持续集成的工具，github完美使用。
 
-## React篇
+## 七、React篇
 ### "语言"
 ### es6
 
@@ -196,14 +196,14 @@ babel-preset-stage-1
 
 2.sequelize
 
-## 开发平台篇
+## 八、开发平台篇
 1.windows
 
 2.ubuntu
 
 3.centos
 
-## 桌面应用开发
+## 九、桌面应用开发
 ### nw.js
 
 nw.js是一个老牌的使用前端技术开发桌面应用的先驱。
@@ -212,10 +212,10 @@ nw.js是一个老牌的使用前端技术开发桌面应用的先驱。
 
 electron是一个现在非常流行的一个桌面应用开发库，从2016年中旬有点苗头，到2017年1月份这段时间发展很快。
 
-## 微信公众号开发
+## 十、微信公众号开发
 
 
-## 工具篇
+## 十一、工具篇
 ### chrome浏览器应用
 1.Notty Notes
 
