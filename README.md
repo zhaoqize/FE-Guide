@@ -1,29 +1,42 @@
 ## 书籍篇(基础)
-1.JavaScript权威指南
+1.[JavaScript权威指南](http://note.youdao.com/noteshare?id=b6f02ed9c2c6abff05bd9c70fc8cd197&sub=42E4712CF7304F6883F26749085362DD)
 
-2.CSS权威指南
+2.[CSS权威指南](http://note.youdao.com/noteshare?id=cb71b0f276145a64dc79acac8d470c19&sub=419E25D845084C7EA6B1C2D63675495E)
 
 3.HTML5权威指南
 
 ## 书籍篇(进阶)
 1.Javascript高级编程设计
 
-2.锋利的jQUery
+2.[锋利的jQUery](http://note.youdao.com/noteshare?id=0dab9597b5123fce772d3bb6d0594d31&sub=83908E5D2A4B4EE9A16828A7A92390D9)
 
-3.悟透Javascript
+3.[悟透Javascript](http://note.youdao.com/noteshare?id=9ff0a6cfae213546633f6ad192b378a7&sub=E4675C4855274A4899877963EE1F49A8)
 
 4.CSS揭秘
 
-5.Web性能权威指南
+5.[JavaScript框架设计](http://note.youdao.com/share/?id=1ff646f8d43840385c15be1bc7b01837&type=note#/)
 
-6.Javascript数据结构与算法
+6.[Web性能权威指南](http://note.youdao.com/noteshare?id=11bce06160006a71e2cdab2aed90bc0b&sub=D68EF671B4A842DE846985EF880066C4)
 
-7.编写可维护的Javascript
+7.[Javascript数据结构与算法](http://note.youdao.com/noteshare?id=763ef67893b37739686e57f51aa4130d&sub=889BE82BC97B4B29AB29D80EE5CA7FDC)
 
-8.Web前端黑客技术揭秘
+8.[编写可维护的Javascript](http://note.youdao.com/noteshare?id=06108a830b22cafcec30db5446c4bd01&sub=285DB98C19DF4D6085146C37AD27FB7A)
+
+9.[Web前端黑客技术揭秘](http://note.youdao.com/noteshare?id=9d75c42a4d58763e52d028a3921b0b6e&sub=WEB13ce6c4a435c9d543ea77e0569dd2cbe)
+
+10.[HTTP权威指南](http://note.youdao.com/noteshare?id=820e4e06cb76515b777795da8a1a70b0&sub=6E691A6885A34859BAF637252C6469F0)
+
+11.[Javascript函数式编程](http://note.youdao.com/noteshare?id=bb9ca71251d184b0fad776bbe217a2e8&sub=4FB94CE55A2542358BFA2EA0BD120408)
+
+## NodeJs书籍
+1.[NodeJs手册](http://note.youdao.com/noteshare?id=7f0fadee2ba1bbeffde9d99ecd1f3e5a&sub=973E52D1D16A4FA088083B02ADB64C52)
+
+2.[NodeJs开发指南](http://note.youdao.com/noteshare?id=69c672d4b0d61032d162bde2339e7d09&sub=689A58814F414E6EB05240BC4FE4D520)
+
+3.[NodeJs](http://note.youdao.com/noteshare?id=d10cbdb5e5b18b7bae040f71c862a8fc&sub=0E2E48E3C8F34BA6A038E72A21BD6209)
 
 ## 模板引擎
-1.jade
+1.Jade
 
 2.Handlebars
 
