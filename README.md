@@ -130,21 +130,26 @@ istanbul用来测试代码覆盖率
 现在一个比较火的在线持续集成的工具，github完美使用。
 
 ## 七、React篇
-### "语言"
 ### es6
 
+1.[阮一峰es6](http://es6.ruanyifeng.com/)
+
 ### babel
-babel-core
+babel是用来将es6,es7,next的新语法转为浏览器可以执行的Javascript。
 
-babel-loader
+需要配置的依赖包:
 
-babel-plugin-transform-decorators-legacy //es7语法
+1.babel-core
 
-babel-preset-es2015
+2.babel-loader
 
-babel-preset-react
+3.babel-plugin-transform-decorators-legacy //es7语法
 
-babel-preset-stage-1
+4.babel-preset-es2015
+
+5.babel-preset-react
+
+3.babel-preset-stage-1
 ### jsx
 
 ### 常用库
@@ -172,23 +177,45 @@ babel-preset-stage-1
 2.koa
 
 ### 开发必备库
-1.node-supervisor
+1.[node-supervisor](https://github.com/petruisfan/node-supervisor)
 
-2.node-inspector
+A little supervisor script for nodejs.
 
-3.node-formidable
+2.[node-inspector](https://github.com/node-inspector/node-inspector)
 
-4.pm2(forever)
+Node.js debugger based on Blink Developer Tools
 
-5.node-schedule
+3.[node-formidable](https://github.com/felixge/node-formidable)
 
-6.mysql
+A node.js module for parsing form data, especially file uploads.
 
-7.log4js
+4.[pm2](https://github.com/Unitech/pm2)
 
-8.bluebird
+Production process manager for Node.js apps with a built-in load balancer
 
-9.nodemailer
+5.[forever](https://github.com/foreverjs/forever)
+
+A simple CLI tool for ensuring that a given script runs continuously
+
+6.[node-schedule](https://github.com/node-schedule/node-schedule)
+
+A cron-like and not-cron-like job scheduler for Node.
+
+7.[mysql](https://github.com/mysqljs/mysql)
+
+A pure node.js JavaScript Client implementing the MySql protocol.
+
+8.[log4js](https://github.com/nomiddlename/log4js-node)
+
+A port of log4js to node.js
+
+9.[bluebird](https://github.com/petkaantonov/bluebird)
+
+Bluebird is a full featured promise library with unmatched performance. 
+
+10.[nodemailer](https://github.com/nodemailer/nodemailer)
+
+:email: Send e-mails with Node.JS – easy as cake!
 
 ### 有待商榷的库
 #### orm
