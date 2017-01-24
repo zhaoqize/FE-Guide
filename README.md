@@ -39,10 +39,38 @@
 
 5.NodeJs与Express开发
 ## 模板引擎
-1.Jade
+1.Jade(Pug)
+
+Jade是一种服务端的模板引擎，常见于nodejs的项目中，还有一个是ejs。
+
+Jade通过缩进来控制台层级关系。
+
+大体的样子:
+```jade
+.wb-funtime
+  .wb-title-side
+    a(target='_blank', href='') demo
+  .wbf-main
+    ul.wbf-ul.clearfix
+      -for(var i=0;i<funTime.length;i++){
+       
+      -}
+```
+学习资料:
+
+[Jade模板引擎让你飞](http://www.cnblogs.com/zqzjs/p/6057254.html)
 
 2.Handlebars
 
+Handlebars是前端模板引擎。
+
+学习资料:
+
+[Handlebars模板引擎之上手](http://www.cnblogs.com/zqzjs/p/6233153.html)
+
+[Handlebars模板引擎之上手](http://www.cnblogs.com/zqzjs/p/6233444.html)
+
+[Handlebars模板引擎之上手](http://www.cnblogs.com/zqzjs/p/6233479.html)
 ## 前端工程
 
 ### 预编译
