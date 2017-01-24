@@ -12,7 +12,7 @@
 
 3.[悟透Javascript](http://note.youdao.com/noteshare?id=9ff0a6cfae213546633f6ad192b378a7&sub=E4675C4855274A4899877963EE1F49A8)
 
-4.CSS揭秘
+4.[CSS揭秘](http://note.youdao.com/noteshare?id=3d6f7be65e989692b9106f7ea3c82653&sub=E96D5D08A715498D85D0A56E14750D1D)
 
 5.[JavaScript框架设计](http://note.youdao.com/share/?id=1ff646f8d43840385c15be1bc7b01837&type=note#/)
 
@@ -35,6 +35,9 @@
 
 3.[NodeJs](http://note.youdao.com/noteshare?id=d10cbdb5e5b18b7bae040f71c862a8fc&sub=0E2E48E3C8F34BA6A038E72A21BD6209)
 
+4.NodeJs的深入浅出
+
+5.NodeJs与Express开发
 ## 模板引擎
 1.Jade
 
