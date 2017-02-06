@@ -244,9 +244,13 @@ electron是一个现在非常流行的一个桌面应用开发库，从2016年�
 
 ## 十二、工具篇
 ### chrome浏览器应用
-1.Notty Notes 用来在chrome浏览器中添加书签的
+1.Notty Notes 
+
+用来在chrome浏览器中添加书签的
 
 2.Adblock
+
+拦截，过滤网页广告
 
 3.Bookmark Manager
 
