@@ -164,10 +164,12 @@ babel是用来将es6,es7,next的新语法转为浏览器可以执行的Javascrip
 5.whatwg-fetch
 
 ### 状态管理
+### redux
+1.react-redux
+
+2.react-router
 ### mobx
 1.mobx-react
-
-### redux
 
 ## 八、NodeJs篇
 
