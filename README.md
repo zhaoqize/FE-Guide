@@ -38,7 +38,10 @@
 4.NodeJs的深入浅出
 
 5.NodeJs与Express开发
-## 四、模板引擎
+## 前端页面开发的正确姿势
+
+
+## 模板引擎
 1.Jade(Pug)
 
 Jade是一种服务端的模板引擎，常见于nodejs的项目中，还有一个是ejs。
@@ -72,34 +75,34 @@ Handlebars是前端模板引擎。
 
 [Handlebars模板引擎之上手](http://www.cnblogs.com/zqzjs/p/6233479.html)
 
-## 五、UI
+## UI
 
 
-## 六、前端工程
+## 前端工程
 
 ### 预编译
-1.less
+1.Less
 
 可以使用koala工具来实时编译
 
-2.sass
+2.Sass
 
-3.typescript
+3.TypeScript
 
 ### 构建工具
-### gurnt
+### Gurnt
 
 老牌的前端构建工具
 
-### gulp
+### Gulp
 
 想要替代grunt的构建工具，是grunt的升级版。
 
-### fis3
+### Fis3
 
 一个百度开发的构建工具
 
-### webpack
+### Webpack
 
 现在比较火的构建工具，与react,vue结合做单页面开发较多。
 
@@ -108,19 +111,19 @@ Handlebars是前端模板引擎。
 2.webpack-dev-server
 
 ### 单元测试
-1.mocha
+1.Mocha
 
 mocha是一个单元测试框架，可以配合各种断言库，比如chai。小巧，轻量。
 
-2.chai
+2.Chai
 
 chai是一个用来断言的库
 
-3.rewire
+3.Rewire
 
 rewire是一个用来返回模块中所有私有方法与变量的库
 
-4.istanbul
+4.Istanbul
 
 istanbul用来测试代码覆盖率
 
@@ -129,12 +132,12 @@ istanbul用来测试代码覆盖率
 
 现在一个比较火的在线持续集成的工具，github完美使用。
 
-## 七、React篇
+## React篇
 ### es6
 
 1.[阮一峰es6](http://es6.ruanyifeng.com/)
 
-### babel
+### Babel
 babel是用来将es6,es7,next的新语法转为浏览器可以执行的Javascript。
 
 需要配置的依赖包:
@@ -150,7 +153,7 @@ babel是用来将es6,es7,next的新语法转为浏览器可以执行的Javascrip
 5.babel-preset-react
 
 3.babel-preset-stage-1
-### jsx
+### JSX
 
 ### 常用库
 1.react
@@ -164,27 +167,29 @@ babel是用来将es6,es7,next的新语法转为浏览器可以执行的Javascrip
 5.whatwg-fetch
 
 ### 状态管理
-### redux
+### Redux
 1.react-redux
 
 2.react-router
-### mobx
+### Mobx
 1.mobx-react
 
-## 总结
-上面说了那么多的乱起八糟的东西，其实下面的文章可以直接概括
+### Dva
+阿里的react+redux的框架
 
+[dva](https://github.com/dvajs/dva/blob/master/README_zh-CN.md)
+
+## React+Redux的理解
 [React + Redux 最佳实践](https://github.com/sorrycc/blog/issues/1)
 
 [支付宝前端应用架构的发展和选择](https://github.com/sorrycc/blog/issues/6)
 
-[dva](https://github.com/dvajs/dva/blob/master/README_zh-CN.md)
-## 八、NodeJs篇
+## NodeJs篇
 
 ### 框架
-1.express
+1.Express
 
-2.koa
+2.Koa
 
 ### 开发必备库
 1.[node-supervisor](https://github.com/petruisfan/node-supervisor)
@@ -233,26 +238,26 @@ Bluebird is a full featured promise library with unmatched performance.
 
 2.sequelize
 
-## 九、开发平台篇
-1.windows
+## 开发平台篇
+1.Windows
 
-2.ubuntu
+2.Ubuntu
 
-3.centos
+3.CentOS
 
-## 十、桌面应用开发
-### nw.js
+## 桌面应用开发
+### NW.js
 
 nw.js是一个老牌的使用前端技术开发桌面应用的先驱。
 
-### electron
+### Electron
 
 electron是一个现在非常流行的一个桌面应用开发库，从2016年中旬有点苗头，到2017年1月份这段时间发展很快。
 
-## 十一、微信公众号开发
+## 微信公众号开发
 
 
-## 十二、工具篇
+## 工具篇
 ### chrome浏览器应用
 1.Notty Notes 
 
