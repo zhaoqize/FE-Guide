@@ -171,6 +171,14 @@ babel是用来将es6,es7,next的新语法转为浏览器可以执行的Javascrip
 ### mobx
 1.mobx-react
 
+## 总结
+上面说了那么多的乱起八糟的东西，其实下面的文章可以直接概括
+
+[React + Redux 最佳实践](https://github.com/sorrycc/blog/issues/1)
+
+[支付宝前端应用架构的发展和选择](https://github.com/sorrycc/blog/issues/6)
+
+[dva](https://github.com/dvajs/dva/blob/master/README_zh-CN.md)
 ## 八、NodeJs篇
 
 ### 框架
