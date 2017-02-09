@@ -258,6 +258,20 @@ electron是一个现在非常流行的一个桌面应用开发库，从2016年�
 
 
 ## 工具篇
+### 开发辅助工具
+1.Beyond Compare 4
+
+2.Xshell5
+
+3.Wamp
+
+4.FastStone Capture
+
+5.mark Main
+
+6.PS
+
+7.FileZilla
 ### chrome浏览器应用
 1.Notty Notes 
 
