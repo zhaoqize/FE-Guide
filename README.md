@@ -166,6 +166,8 @@ babel是用来将es6,es7,next的新语法转为浏览器可以执行的Javascrip
 
 4.isomorphic-fetch
 
+方便用来做同构
+
 5.whatwg-fetch
 
 ### 状态管理
@@ -263,13 +265,21 @@ electron是一个现在非常流行的一个桌面应用开发库，从2016年�
 ### 开发辅助工具
 1.Beyond Compare 4
 
+文件比对工具
+
 2.Xshell5
 
 3.Wamp
 
+服务全家桶
+
 4.FastStone Capture
 
+截图软件
+
 5.mark Main
+
+页面标注工具
 
 6.PS
 
@@ -285,19 +295,33 @@ electron是一个现在非常流行的一个桌面应用开发库，从2016年�
 
 3.Bookmark Manager
 
+书签管理器
+
 4.Axure RP Extension for Chrome
+
+原型设计工具
 
 5.JSONView
 
+页面数据JSON化显示
+
 6.Postman
+
 
 7.React Developer Tools
 
+React开发调试工具
+
 8.Vue.js devtools
 
+Vue开发调试工具
 9.YSlow
 
+谷歌页面性能分析工具
+
 10.掘金
+
+掘金谷歌应用版
 
 11.马克飞象
 
