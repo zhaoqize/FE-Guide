@@ -48,17 +48,6 @@ Jade是一种服务端的模板引擎，常见于nodejs的项目中，还有一�
 
 Jade通过缩进来控制台层级关系。
 
-大体的样子:
-```jade
-.wb-funtime
-  .wb-title-side
-    a(target='_blank', href='') demo
-  .wbf-main
-    ul.wbf-ul.clearfix
-      -for(var i=0;i<funTime.length;i++){
-       
-      -}
-```
 学习资料:
 
 [Jade模板引擎让你飞](http://www.cnblogs.com/zqzjs/p/6057254.html)
@@ -78,16 +67,13 @@ Handlebars是前端模板引擎。
 ## UI
 - Bootstrap
 
-
 一个经典的前端UI框架,有react的版本[bootstrap-material-design](http://fezvrasta.github.io/bootstrap-material-design/#getting-started)
 - Material-UI 
-
 
 一个基于谷歌设计语言material design的UI库,有react的版本[material-ui](http://www.material-ui.com/#/components/)
 - Antd 
 
-
-一个百度出的基于react的前端UI框架[ANT DESIGN](https://ant.design/index-cn)
+一个阿里出的基于react的前端UI框架[ANT DESIGN](https://ant.design/index-cn)
 
 
 ## 前端工程
