@@ -76,11 +76,12 @@ Handlebars是前端模板引擎。
 [Handlebars模板引擎之上手](http://www.cnblogs.com/zqzjs/p/6233479.html)
 
 ## UI
-
-1.Bootstrap 一个经典的前端UI框架,有react的版本[bootstrap-material-design](http://fezvrasta.github.io/bootstrap-material-design/#getting-started)
-2.Material-UI 一个基于谷歌设计语言material design的UI库,有react的版本[material-ui](http://www.material-ui.com/#/components/)
-
-3.Antd 一个百度出的基于react的前端UI框架[ANT DESIGN](https://ant.design/index-cn)
+- Bootstrap 
+一个经典的前端UI框架,有react的版本[bootstrap-material-design](http://fezvrasta.github.io/bootstrap-material-design/#getting-started)
+- Material-UI 
+一个基于谷歌设计语言material design的UI库,有react的版本[material-ui](http://www.material-ui.com/#/components/)
+- Antd 
+一个百度出的基于react的前端UI框架[ANT DESIGN](https://ant.design/index-cn)
 ## 前端工程
 
 ### 预编译
