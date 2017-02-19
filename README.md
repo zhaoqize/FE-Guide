@@ -42,7 +42,7 @@
 
 
 ## 模板引擎
-1.Jade(Pug)
+- Jade(Pug)
 
 Jade是一种服务端的模板引擎，常见于nodejs的项目中，还有一个是ejs。
 
@@ -52,7 +52,7 @@ Jade通过缩进来控制台层级关系。
 
 [Jade模板引擎让你飞](http://www.cnblogs.com/zqzjs/p/6057254.html)
 
-2.Handlebars
+- Handlebars
 
 Handlebars是前端模板引擎。
 
@@ -79,13 +79,13 @@ Handlebars是前端模板引擎。
 ## 前端工程
 
 ### 预编译
-1.Less
+- Less
 
 可以使用koala工具来实时编译
 
-2.Sass
+- Sass
 
-3.TypeScript
+- TypeScript
 
 ### 构建工具
 ### Gurnt
@@ -109,19 +109,19 @@ Handlebars是前端模板引擎。
 2.webpack-dev-server
 
 ### 单元测试
-1.Mocha
+- Mocha
 
 mocha是一个单元测试框架，可以配合各种断言库，比如chai。小巧，轻量。
 
-2.Chai
+- Chai
 
 chai是一个用来断言的库
 
-3.Rewire
+- Rewire
 
 rewire是一个用来返回模块中所有私有方法与变量的库
 
-4.Istanbul
+- Istanbul
 
 istanbul用来测试代码覆盖率
 
