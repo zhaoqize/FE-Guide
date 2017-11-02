@@ -1,29 +1,31 @@
-😊一个野人在前端路上的摸爬滚打😊
+😊一个野人的在前端路上学习成长过程中遇到的每个点😊
 
 🌹希望对大家有用🌹
+
+👏欢迎star👏
 
 ## 前端书籍
 
 书名 | 简介
 ---|---
-JavaScript权威指南 | ✨
-CSS权威指南 | ✨
-HTML5权威指南 | ✨
-Javascript高级编程设计 | ✨
-锋利的jQUery | ✨
-悟透Javascript | ✨
-CSS揭秘 | ✨
-JavaScript框架设计 | ✨    
-Web性能权威指南 | ✨
-Javascript数据结构与算法 | ✨
-编写可维护的Javascript |   ✨ 
-Web前端黑客技术揭秘 |  ✨
-HTTP权威指南 |  ✨
-Javascript函数式编程 | ✨
-NodeJs手册 | ✨
-NodeJs开发指南 | ✨
-NodeJs | ✨
-NodeJs的深入浅出 | ✨
+JavaScript权威指南 | 亢龙有悔🐲
+CSS权威指南 | 飞龙在天☁️
+HTML5权威指南 | 见龙在田🌾
+Javascript高级编程设计 | 鸿渐于陆🦌
+锋利的jQUery | 潜龙勿用
+悟透Javascript | 突如其来
+CSS揭秘 | 利涉大川🚢
+JavaScript框架设计 | 震惊百里   
+Web性能权威指南 | 或跃在渊
+Javascript数据结构与算法 | 双龙取水
+编写可维护的Javascript |  鱼跃于渊
+Web前端黑客技术揭秘 |  时乘六龙🐲
+HTTP权威指南 |  密云不雨🌧️
+Javascript函数式编程 | 损则有孚
+NodeJs手册 | 龙战于野✌️
+NodeJs开发指南 | 履霜冰至🈯️
+NodeJs | 羝羊触蕃😡
+NodeJs的深入浅出 | 神龙摆尾
 
 ### 文章
 
