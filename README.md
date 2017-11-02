@@ -144,7 +144,14 @@ NodeJs的深入浅出 | 神龙摆尾
 --- | ---
 [Travis CI](https://github.com/travis-ci/travis-ci) | Free continuous integration platform for GitHub projects.
 
-
+## 工具
+名称 | 简介
+--- | ---
+[Beyond Compare 4](http://scootersoftware.com/) |  文件比对
+[FastStone Capture](http://faststone.org/FSCaptureDetail.htm) | 截图，录屏
+[Mark Main](http://www.getmarkman.com/) | 高效的设计稿标注、测量工具
+[PS]() | 
+[Charles](https://www.charlesproxy.com/) | 抓包，代理小能手
 
 
 
