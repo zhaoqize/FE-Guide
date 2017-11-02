@@ -1,3 +1,7 @@
+😊一个野人的在前端路上学习成长过程中遇到的每个点😊
+
+🌹希望对大家有用🌹
+
 ## 前端书籍
 
 书名 | 简介
@@ -22,6 +26,7 @@ NodeJs | ✨
 NodeJs的深入浅出 | ✨
 
 ### 文章
+
 
 
 ## 模版引擎
@@ -93,6 +98,7 @@ NodeJs的深入浅出 | ✨
 库 | 简介
 --- | ---
 [next.js](https://github.com/zeit/next.js) | Framework for server-rendered or statically-exported React apps
+[nuxt.js](https://github.com/nuxt/nuxt.js) | Versatile Vue.js Framework 
 
 ## 桌面应用构建
 库 | 简介
@@ -135,4 +141,12 @@ NodeJs的深入浅出 | ✨
 库 | 简介
 --- | ---
 [Travis CI](https://github.com/travis-ci/travis-ci) | Free continuous integration platform for GitHub projects.
+
+
+
+
+
+
+
+
 
