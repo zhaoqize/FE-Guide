@@ -8,24 +8,26 @@
 
 书名 | 简介
 ---|---
-JavaScript权威指南 | 亢龙有悔🐲
-CSS权威指南 | 飞龙在天☁️
+[JavaScript权威指南](http://note.youdao.com/noteshare?id=b6f02ed9c2c6abff05bd9c70fc8cd197&sub=42E4712CF7304F6883F26749085362DD) | 亢龙有悔🐲
+[CSS权威指南](http://note.youdao.com/noteshare?id=cb71b0f276145a64dc79acac8d470c19&sub=419E25D845084C7EA6B1C2D63675495E) | 飞龙在天☁️
 HTML5权威指南 | 见龙在田🌾
 Javascript高级编程设计 | 鸿渐于陆🦌
-锋利的jQUery | 潜龙勿用
-悟透Javascript | 突如其来
-CSS揭秘 | 利涉大川🚢
-JavaScript框架设计 | 震惊百里   
-Web性能权威指南 | 或跃在渊
-Javascript数据结构与算法 | 双龙取水
-编写可维护的Javascript |  鱼跃于渊
-Web前端黑客技术揭秘 |  时乘六龙🐲
-HTTP权威指南 |  密云不雨🌧️
-Javascript函数式编程 | 损则有孚
-NodeJs手册 | 龙战于野✌️
-NodeJs开发指南 | 履霜冰至🈯️
-NodeJs | 羝羊触蕃😡
+[锋利的jQUery](http://note.youdao.com/noteshare?id=0dab9597b5123fce772d3bb6d0594d31&sub=83908E5D2A4B4EE9A16828A7A92390D9) | 潜龙勿用
+[悟透Javascript](http://note.youdao.com/noteshare?id=9ff0a6cfae213546633f6ad192b378a7&sub=E4675C4855274A4899877963EE1F49A8) | 突如其来
+[CSS揭秘](http://note.youdao.com/noteshare?id=3d6f7be65e989692b9106f7ea3c82653&sub=E96D5D08A715498D85D0A56E14750D1D) | 利涉大川🚢
+[JavaScript框架设计](http://note.youdao.com/share/?id=1ff646f8d43840385c15be1bc7b01837&type=note#/) | 震惊百里   
+[Web性能权威指南](http://note.youdao.com/noteshare?id=11bce06160006a71e2cdab2aed90bc0b&sub=D68EF671B4A842DE846985EF880066C4) | 或跃在渊
+[Javascript数据结构与算法](http://note.youdao.com/noteshare?id=763ef67893b37739686e57f51aa4130d&sub=889BE82BC97B4B29AB29D80EE5CA7FDC) | 双龙取水
+[编写可维护的Javascript](http://note.youdao.com/noteshare?id=06108a830b22cafcec30db5446c4bd01&sub=285DB98C19DF4D6085146C37AD27FB7A) |  鱼跃于渊
+[Web前端黑客技术揭秘](http://note.youdao.com/noteshare?id=9d75c42a4d58763e52d028a3921b0b6e&sub=WEB13ce6c4a435c9d543ea77e0569dd2cbe) |  时乘六龙🐲
+[HTTP权威指南](http://note.youdao.com/noteshare?id=820e4e06cb76515b777795da8a1a70b0&sub=6E691A6885A34859BAF637252C6469F0) |  密云不雨🌧️
+[Javascript函数式编程](http://note.youdao.com/noteshare?id=bb9ca71251d184b0fad776bbe217a2e8&sub=4FB94CE55A2542358BFA2EA0BD120408) | 损则有孚
+[NodeJs手册](http://note.youdao.com/noteshare?id=7f0fadee2ba1bbeffde9d99ecd1f3e5a&sub=973E52D1D16A4FA088083B02ADB64C52) | 龙战于野✌️
+[NodeJs开发指南](http://note.youdao.com/noteshare?id=69c672d4b0d61032d162bde2339e7d09&sub=689A58814F414E6EB05240BC4FE4D520) | 履霜冰至🈯️
+[NodeJs](http://note.youdao.com/noteshare?id=d10cbdb5e5b18b7bae040f71c862a8fc&sub=0E2E48E3C8F34BA6A038E72A21BD6209) | 羝羊触蕃😡
 NodeJs的深入浅出 | 神龙摆尾
+
+*书籍内容均来自于网络，仅供学习参考使用。
 
 ### 文章
 
@@ -48,7 +50,7 @@ NodeJs的深入浅出 | 神龙摆尾
 
 名称 | 简介
 ---|---
-[Jade(Pug)](https://github.com/pugjs/pug) | Pug – robust, elegant, feature rich template engine for Node.js
+[Pug(Jade)](https://github.com/pugjs/pug) | Pug – robust, elegant, feature rich template engine for Node.js
 [Handlebars](https://github.com/wycats/handlebars.js) | 前端模板引擎
 
 ## 前端框架
@@ -63,31 +65,31 @@ NodeJs的深入浅出 | 神龙摆尾
 名称 | 简介
 ---|---
 [Bootstrap](http://getbootstrap.com/) | 经典
-[bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) | material-design设计风格的Bootstrap
-[material-ui](http://www.material-ui.com/#/components/) | React版本Material-UI
+[Bootstrap-Material-Design](https://github.com/FezVrasta/bootstrap-material-design) | material-design设计风格的Bootstrap
+[Material-UI](http://www.material-ui.com/#/components/) | React版本Material-UI
 [Ant Design of React](https://ant.design/index-cn) | React版本的Ant Design
-[element-ui](https://github.com/ElemeFE/element) | 基于vue的UI框架
-[iView](https://github.com/iview/iview) | A high quality UI Toolkit built on Vue.js 2.0
+[Element-UI](https://github.com/ElemeFE/element) | 基于vue的UI框架
+[IView](https://github.com/iview/iview) | A high quality UI Toolkit built on Vue.js 2.0
 
 
 ## 移动端(混合)框架
 库 | 简介
 --- | ---
 [React-Native](https://github.com/facebook/react-native) | A framework for building native apps with React.
-[ionic](https://github.com/ionic-team/ionic) | Build amazing native and progressive web apps with open web technologies
-[weex](https://github.com/alibaba/weex) | A framework for building Mobile cross-platform UI
+[Ionic](https://github.com/ionic-team/ionic) | Build amazing native and progressive web apps with open web technologies
+[Weex](https://github.com/alibaba/weex) | A framework for building Mobile cross-platform UI
 
 ## 移动UI框架
 库 | 简介
 --- | ---
-[vux](https://github.com/airyland/vux) | Mobile UI Components based on Vue & WeUI 
-[weui](https://github.com/Tencent/weui) | A UI library by WeChat official design team
-[amazeui](https://github.com/amazeui/amazeui) | Amaze UI, a mobile-first and modular front-end framework
-[mui](https://github.com/dcloudio/mui) | 最接近原生APP体验的高性能框架
-[mint-ui](https://github.com/ElemeFE/mint-ui) | Mobile UI elements for Vue.js
-[sui-mobile](https://github.com/sdc-alibaba/SUI-Mobile) | 阿里巴巴国际UED前端出品的移动端UI库，轻量精美
-[muse-ui](https://github.com/museui/muse-ui) | Material Design UI library for Vuejs 2.0
-[ant-design-mobile](https://github.com/ant-design/ant-design-mobile) | A configurable Mobile UI
+[Vux](https://github.com/airyland/vux) | Mobile UI Components based on Vue & WeUI 
+[Weui](https://github.com/Tencent/weui) | A UI library by WeChat official design team
+[Amazeui](https://github.com/amazeui/amazeui) | Amaze UI, a mobile-first and modular front-end framework
+[MUI](https://github.com/dcloudio/mui) | 最接近原生APP体验的高性能框架
+[Mint-UI](https://github.com/ElemeFE/mint-ui) | Mobile UI elements for Vue.js
+[SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile) | 阿里巴巴国际UED前端出品的移动端UI库，轻量精美
+[Muse-UI](https://github.com/museui/muse-ui) | Material Design UI library for Vuejs 2.0
+[Ant-Design-Mobile](https://github.com/ant-design/ant-design-mobile) | A configurable Mobile UI
 
 
 ## 状态管理库
@@ -103,17 +105,17 @@ NodeJs的深入浅出 | 神龙摆尾
 --- | ---
 [Express](https://github.com/expressjs/express) | Fast, unopinionated, minimalist web framework for node
 [Koa](https://github.com/koajs/koa) | Expressive middleware for node.js using ES2017 async functions
-[fastify](https://github.com/fastify/fastify) | Fast and low overhead web framework, for Node.js
-[socket-io](https://github.com/socketio/socket.io) | Realtime application framework (Node.JS server)
-[pm2](https://github.com/Unitech/pm2) | Production Process Manager for Node.js apps with a built-in Load Balancer.
-[axios](https://github.com/axios/axios) | Promise based HTTP client for the browser and node.js
-[bluebird](https://github.com/petkaantonov/bluebird) | 🐦 ⚡️ Bluebird is a full featured promise library with unmatched performance
+[Fastify](https://github.com/fastify/fastify) | Fast and low overhead web framework, for Node.js
+[Socket-IO](https://github.com/socketio/socket.io) | Realtime application framework (Node.JS server)
+[PM2](https://github.com/Unitech/pm2) | Production Process Manager for Node.js apps with a built-in Load Balancer.
+[Axios](https://github.com/axios/axios) | Promise based HTTP client for the browser and node.js
+[Bluebird](https://github.com/petkaantonov/bluebird) | 🐦 ⚡️ Bluebird is a full featured promise library with unmatched performance
 
 ## SSR(服务端渲染)
 库 | 简介
 --- | ---
-[next.js](https://github.com/zeit/next.js) | Framework for server-rendered or statically-exported React apps
-[nuxt.js](https://github.com/nuxt/nuxt.js) | Versatile Vue.js Framework 
+[Next.js](https://github.com/zeit/next.js) | Framework for server-rendered or statically-exported React apps
+[Nuxt.js](https://github.com/nuxt/nuxt.js) | Versatile Vue.js Framework 
 
 ## 桌面应用构建
 库 | 简介
