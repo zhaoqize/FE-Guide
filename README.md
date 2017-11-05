@@ -41,8 +41,16 @@ NodeJs的深入浅出 | 神龙摆尾
 [博客园](http://www.csdn.net/) | [CSDN](http://www.csdn.net/) |  [开源中国](https://oschina.net/)
 --- | --- | ---
 [掘金](https://juejin.im/timeline) | [segmentfault](https://segmentfault.com/)  |  [前端网](http://www.qdfuns.com/)
-[大前端](http://www.daqianduan.com) | [乱炖](http://www.html-js.com/) | 
+[大前端](http://www.daqianduan.com) | [乱炖](http://www.html-js.com/) | [CNODE](https://cnodejs.org/)
 
+## 前端视频网站
+[极客学院](http://www.jikexueyuan.com/) | [慕课网](http://www.imooc.com/) | [egghead](https://egghead.io/)
+--- | --- | ---
+
+
+## 开(tong)源(xing)网(jiao)站(you)
+[github](https://github.com/) | [bitbucket](https://bitbucket.org/) | [码云](https://gitee.com/)
+--- | --- | ---
 
 ## 模版引擎
 
@@ -160,11 +168,22 @@ NodeJs的深入浅出 | 神龙摆尾
 ## 工具
 名称 | 简介
 --- | ---
+[Can I use](http://caniuse.com/) | Can I use
+[Charles](https://www.charlesproxy.com/) | 抓包，代理小能手
+[tinypng](https://tinypng.com/) | 图片压缩
+[favicon](http://www.favicon.cc/) | 生成站标
+[easyicon](http://www.easyicon.net/) |  图标下载
+[gopng](http://alloyteam.github.io/gopng/) | 图片生成
+[图片转Base64](http://www.pjhome.net/web/html5/encodeDataUrl.htm) | 图片转Base64
 [Beyond Compare 4](http://scootersoftware.com/) |  文件比对
 [FastStone Capture](http://faststone.org/FSCaptureDetail.htm) | 截图，录屏
 [Mark Main](http://www.getmarkman.com/) | 高效的设计稿标注、测量工具
-[PS]() | 
-[Charles](https://www.charlesproxy.com/) | 抓包，代理小能手
+[easy-mock](https://easy-mock.com) | Mock数据
+[JSDoc](http://www.css88.com/doc/jsdoc/index.html) | JS生成文档
+[regexr](http://www.regexr.com/) | 正则匹配
+[pxtoem](http://pxtoem.com/) | px转em
+
+
 
 
 
