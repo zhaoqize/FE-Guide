@@ -29,7 +29,35 @@ NodeJs的深入浅出 | 神龙摆尾
 
 *书籍内容均来自于网络，仅供学习参考使用。
 
-### 文章
+## 文章
+### 基础
+- [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
+- [JS进阶 基本类型 引用类型 简单赋值 对象引用](https://segmentfault.com/a/1190000002789651)
+- [前端文摘：深入解析浏览器的幕后工作原理 - 梦想天空（山边小溪） - 博客园](http://www.cnblogs.com/lhb25/p/how-browsers-work.html)
+- [认识 V8 引擎 - 知乎专栏](https://zhuanlan.zhihu.com/p/27628685)
+
+### 混合开发
+- [为什么可以通过URL来调起APP - URL Scheme和Intent](http://www.cnblogs.com/zqzjs/p/7505265.html)
+- [H5页面中尝试调起APP](http://www.cnblogs.com/zqzjs/p/7504236.html)
+- [Weex的原生开发](http://www.cnblogs.com/zqzjs/p/7365726.html)
+- [第一次安卓运行踩坑](http://www.cnblogs.com/zqzjs/p/7258482.html)
+- [Android Studio集成到Genymotion模拟器](http://www.cnblogs.com/zqzjs/p/7411361.html)
+- [VasSonic：手Q开源Hybrid框架介绍](http://www.infoq.com/cn/articles/vassonic-manual-q-open-source-hybrid-framework)
+- [开发首屏广告(Android)简述](http://blog.csdn.net/caroline_wendy/article/details/50183487)
+
+### 性能优化
+- [内存管理](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Memory_Management)
+- [前端的长列表性能优化](http://fishedee.com/%E5%89%8D%E7%AB%AF/2017/02/27/%E5%89%8D%E7%AB%AF%E7%9A%84%E9%95%BF%E5%88%97%E8%A1%A8%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.html)
+- [vue 性能优化](https://github.com/Coffcer/Blog/issues/3)
+
+### 工程架构
+- [如何管理一个前端基础架构团队- AdRoll - 众成翻译](https://juejin.im/entry/59c7d35bf265da065754df2f)
+- [QCon北京2014《CardKit & DOMO UI - 移动时代技术与设计的十字路口》技术篇](https://www.douban.com/note/347692465/)
+- [前端工程——基础篇](https://segmentfault.com/r/1250000011218832?shareId=1210000011218833)
+- [对无线电商动态化方案的思考](https://github.com/amfe/article/issues/13)
+
+### 工具使用
+- [Charles从入门到放弃](http://www.cnblogs.com/zqzjs/p/7763406.html)
 
 
 ## 前端团队
