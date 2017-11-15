@@ -35,6 +35,7 @@ NodeJs的深入浅出 | 神龙摆尾
 - [JS进阶 基本类型 引用类型 简单赋值 对象引用](https://segmentfault.com/a/1190000002789651)
 - [前端文摘：深入解析浏览器的幕后工作原理 - 梦想天空（山边小溪） - 博客园](http://www.cnblogs.com/lhb25/p/how-browsers-work.html)
 - [认识 V8 引擎 - 知乎专栏](https://zhuanlan.zhihu.com/p/27628685)
+- [基于webpack2.x的vue2.x的多页面站点](http://www.cnblogs.com/zqzjs/p/6834843.html)
 
 ### 混合开发
 - [为什么可以通过URL来调起APP - URL Scheme和Intent](http://www.cnblogs.com/zqzjs/p/7505265.html)
@@ -55,10 +56,14 @@ NodeJs的深入浅出 | 神龙摆尾
 - [QCon北京2014《CardKit & DOMO UI - 移动时代技术与设计的十字路口》技术篇](https://www.douban.com/note/347692465/)
 - [前端工程——基础篇](https://segmentfault.com/r/1250000011218832?shareId=1210000011218833)
 - [对无线电商动态化方案的思考](https://github.com/amfe/article/issues/13)
+- [大公司里怎样开发和部署前端代码？](https://www.zhihu.com/question/20790576)
+- [美团点评境外度假团队前端项目开发实践总结](https://tech.meituan.com/fe-overseas-practice.html)
 
 ### 工具使用
 - [Charles从入门到放弃](http://www.cnblogs.com/zqzjs/p/7763406.html)
 
+## 其他
+- [Jade模板引擎让你飞](http://www.cnblogs.com/zqzjs/p/6057254.html)
 
 ## 前端团队
 Team | Team | Team
@@ -79,12 +84,18 @@ Learn | Learn | Learn
 --- | --- | ---
 [极客学院](http://www.jikexueyuan.com/) | [慕课网](http://www.imooc.com/) | [egghead](https://egghead.io/)
 
-## 开(tong)源(xing)网(jiao)站(you)
+## 开源网站
 Open | Open | Open
 --- | --- | ---
 [github](https://github.com/) | [bitbucket](https://bitbucket.org/) | [码云](https://gitee.com/)
-## 模版引擎
 
+## 在线编辑
+
+CodeEdit | CodeEdit
+--- | ---
+[CodePen](https://codepen.io/) | [jsfiddle](https://jsfiddle.net/)
+
+## 模版引擎
 名称 | 简介
 ---|---
 [Pug(Jade)](https://github.com/pugjs/pug) | Pug – robust, elegant, feature rich template engine for Node.js
