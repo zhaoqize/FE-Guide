@@ -41,7 +41,6 @@ NodeJs的深入浅出 | 神龙摆尾
 - [为什么可以通过URL来调起APP - URL Scheme和Intent](http://www.cnblogs.com/zqzjs/p/7505265.html)
 - [H5页面中尝试调起APP](http://www.cnblogs.com/zqzjs/p/7504236.html)
 - [Weex的原生开发](http://www.cnblogs.com/zqzjs/p/7365726.html)
-- [第一次安卓运行踩坑](http://www.cnblogs.com/zqzjs/p/7258482.html)
 - [Android Studio集成到Genymotion模拟器](http://www.cnblogs.com/zqzjs/p/7411361.html)
 - [VasSonic：手Q开源Hybrid框架介绍](http://www.infoq.com/cn/articles/vassonic-manual-q-open-source-hybrid-framework)
 - [开发首屏广告(Android)简述](http://blog.csdn.net/caroline_wendy/article/details/50183487)
