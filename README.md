@@ -31,27 +31,30 @@ NodeJs的深入浅出 | 神龙摆尾
 
 ### 文章
 
+
 ## 前端团队
-[淘宝前端团队（FED）](http://taobaofed.org/) | [腾讯前端IMWEB团队](http://imweb.io/) | [腾讯ISUX](https://isux.tencent.com/)
+Team | Team | Team
 --- | --- | ---
+[淘宝前端团队（FED）](http://taobaofed.org/) | [腾讯前端IMWEB团队](http://imweb.io/) | [腾讯ISUX](https://isux.tencent.com/)
 [百度用户体验中心](http://ued.baidu.com/#/home) | [腾讯设计团队](http://mxd.tencent.com/) | [360奇舞团](https://weekly.75team.com/)
 [百度前端研发部](http://fex.baidu.com/) | [美团点评技术团队](https://tech.meituan.com/)  | [腾讯Web前端团队](http://www.alloyteam.com)
 
 ## 前端社区
-[博客园](http://www.csdn.net/) | [CSDN](http://www.csdn.net/) |  [开源中国](https://oschina.net/)
+Community | Community | Community
 --- | --- | ---
+[博客园](http://www.csdn.net/) | [CSDN](http://www.csdn.net/) | [开源中国](https://oschina.net/)
 [掘金](https://juejin.im/timeline) | [segmentfault](https://segmentfault.com/)  |  [前端网](http://www.qdfuns.com/)
 [大前端](http://www.daqianduan.com) | [乱炖](http://www.html-js.com/) | [CNODE](https://cnodejs.org/)
 
 ## 前端视频网站
-[极客学院](http://www.jikexueyuan.com/) | [慕课网](http://www.imooc.com/) | [egghead](https://egghead.io/)
+Learn | Learn | Learn
 --- | --- | ---
-
+[极客学院](http://www.jikexueyuan.com/) | [慕课网](http://www.imooc.com/) | [egghead](https://egghead.io/)
 
 ## 开(tong)源(xing)网(jiao)站(you)
-[github](https://github.com/) | [bitbucket](https://bitbucket.org/) | [码云](https://gitee.com/)
+Open | Open | Open
 --- | --- | ---
-
+[github](https://github.com/) | [bitbucket](https://bitbucket.org/) | [码云](https://gitee.com/)
 ## 模版引擎
 
 名称 | 简介
