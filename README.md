@@ -62,6 +62,7 @@ NodeJs的深入浅出 | 神龙摆尾
 - [【移动适配】移动Web怎么做屏幕适配（一）](https://segmentfault.com/a/1190000004524243)
 - [【移动适配】一个像素的border怎么实现](https://segmentfault.com/a/1190000004538413)
 - [视区相关单位vw, vh..简介以及可实际应用场景](http://www.zhangxinxu.com/wordpress/2012/09/new-viewport-relative-units-vw-vh-vm-vmin/)
+- [使用Flexible实现手淘H5页面的终端适配](https://github.com/amfe/article/issues/17)
 
 ### 混合开发
 - [为什么可以通过URL来调起APP - URL Scheme和Intent](http://www.cnblogs.com/zqzjs/p/7505265.html)
