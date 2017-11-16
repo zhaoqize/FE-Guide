@@ -6,11 +6,11 @@
 
 # 目录
 * [前端书籍](#前端书籍)
-* [文章](#文章)
+* [博客文章](#博客文章)
 * [前端团队](#前端团队)
 * [前端社区](#前端社区)
 * [前端视频网站](#前端视频网站)
-* [仓库](#仓库)
+* [代码仓库](#代码仓库)
 * [在线编辑](#在线编辑)
 * [模版引擎](#模版引擎)
 * [前端框架](#前端框架)
@@ -25,7 +25,7 @@
 * [构建工具](#构建工具)
 * [前端包管理器](#前端包管理器)
 * [前端测试](#前端测试)
-* [工具](#工具)
+* [常用工具](#常用工具)
 
 ## 前端书籍
 
@@ -52,13 +52,15 @@ NodeJs的深入浅出 | 神龙摆尾
 
 *书籍内容均来自于网络，仅供学习参考使用。
 
-## 文章
-### 基础
+## 博客文章
+### 前端基础
 - [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 - [JS进阶 基本类型 引用类型 简单赋值 对象引用](https://segmentfault.com/a/1190000002789651)
 - [前端文摘：深入解析浏览器的幕后工作原理 - 梦想天空（山边小溪） - 博客园](http://www.cnblogs.com/lhb25/p/how-browsers-work.html)
 - [认识 V8 引擎 - 知乎专栏](https://zhuanlan.zhihu.com/p/27628685)
 - [基于webpack2.x的vue2.x的多页面站点](http://www.cnblogs.com/zqzjs/p/6834843.html)
+- [【移动适配】移动Web怎么做屏幕适配（一）](https://segmentfault.com/a/1190000004524243)
+- [【移动适配】一个像素的border怎么实现](https://segmentfault.com/a/1190000004538413)
 
 ### 混合开发
 - [为什么可以通过URL来调起APP - URL Scheme和Intent](http://www.cnblogs.com/zqzjs/p/7505265.html)
@@ -106,7 +108,7 @@ Learn | Learn | Learn
 --- | --- | ---
 [极客学院](http://www.jikexueyuan.com/) | [慕课网](http://www.imooc.com/) | [egghead](https://egghead.io/)
 
-## 仓库
+## 代码仓库
 Repositorie | Repositorie | Repositorie
 --- | --- | ---
 [github](https://github.com/) | [bitbucket](https://bitbucket.org/) | [码云](https://gitee.com/)
@@ -228,7 +230,7 @@ CodeEdit | CodeEdit
 --- | ---
 [Travis CI](https://github.com/travis-ci/travis-ci) | Free continuous integration platform for GitHub projects.
 
-## 工具
+## 常用工具
 名称 | 简介
 --- | ---
 [Can I use](http://caniuse.com/) | Can I use
