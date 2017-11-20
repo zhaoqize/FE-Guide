@@ -1,12 +1,12 @@
-😊一个野人,在前端路上的摸爬滚打!😊
+> 介绍：本文揽括了从技术书籍，牛人博客，前端热门技术，前端性能优化，前端架构，业内发展等所需的相关资料。
 
-🌹一点记录,希望对大家有用,让我们一起勉励前行!🌹
+🌹前端路上，风雨同舟，作为FEer，让我们一起起航把！我们的征途是星辰大海！🌹
 
-👏欢迎star👏
+👏欢迎STAR～👏
 
 # 目录
 * [前端书籍](#前端书籍)
-* [博客文章](#博客文章)
+* [技术文章](#技术文章)
 * [前端团队](#前端团队)
 * [前端社区](#前端社区)
 * [前端视频网站](#前端视频网站)
@@ -52,7 +52,7 @@ NodeJs的深入浅出 | 神龙摆尾
 
 *const 声明 = 技术书籍内容均来源于网络，仅整理出来供大家学习参考使用。
 
-## 博客文章
+## 技术文章
 ### 前端基础
 - [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 - [JS进阶 基本类型 引用类型 简单赋值 对象引用](https://segmentfault.com/a/1190000002789651)
@@ -84,6 +84,10 @@ NodeJs的深入浅出 | 神龙摆尾
 - [对无线电商动态化方案的思考](https://github.com/amfe/article/issues/13)
 - [大公司里怎样开发和部署前端代码？](https://www.zhihu.com/question/20790576)
 - [美团点评境外度假团队前端项目开发实践总结](https://tech.meituan.com/fe-overseas-practice.html)
+
+### 业内发展
+- [Kotlin](https://kotlinlang.org/):Kotlin 可以编译成Java字节码，也可以编译成 JavaScript，方便在没有 JVM 的设备上运行
+- [clojurescript](https://github.com/clojure/clojurescript):基于Clojure语言的JS封装
 
 ### 工具使用
 - [Charles从入门到放弃](http://www.cnblogs.com/zqzjs/p/7763406.html)
