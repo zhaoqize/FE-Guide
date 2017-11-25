@@ -71,6 +71,7 @@ NodeJs的深入浅出 | 神龙摆尾
 - [Android Studio集成到Genymotion模拟器](http://www.cnblogs.com/zqzjs/p/7411361.html)
 - [VasSonic：手Q开源Hybrid框架介绍](http://www.infoq.com/cn/articles/vassonic-manual-q-open-source-hybrid-framework)
 - [开发首屏广告(Android)简述](http://blog.csdn.net/caroline_wendy/article/details/50183487)
+- [Hybrid APP架构设计思路](https://segmentfault.com/a/1190000004263182)
 
 ### 性能优化
 - [内存管理](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Memory_Management)
