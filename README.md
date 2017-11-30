@@ -63,6 +63,10 @@ NodeJs的深入浅出 | 神龙摆尾
 - [【移动适配】一个像素的border怎么实现](https://segmentfault.com/a/1190000004538413)
 - [视区相关单位vw, vh..简介以及可实际应用场景](http://www.zhangxinxu.com/wordpress/2012/09/new-viewport-relative-units-vw-vh-vm-vmin/)
 - [使用Flexible实现手淘H5页面的终端适配](https://github.com/amfe/article/issues/17)
+- [JavaScript下的setTimeout(fn,0)意味着什么？](http://www.cnblogs.com/silin6/archive/2015/03/12/4333999.html)
+- [JavaScript队列函数和异步执行](http://caibaojian.com/javascript-queue-function.html)
+- [JavaScript Event Loop机制详解与Vue.js中nextTick的实践应用](https://m.aliyun.com/yunqi/articles/204129?spm=5176.mtagdetail.0.0.fZx5vR)
+- [HTML系列：macrotask和microtask](http://www.qingpingshan.com/m/view.php?aid=183193)
 
 ### 混合开发
 - [为什么可以通过URL来调起APP - URL Scheme和Intent](http://www.cnblogs.com/zqzjs/p/7505265.html)
