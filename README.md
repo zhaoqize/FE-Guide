@@ -67,6 +67,7 @@ NodeJs的深入浅出 | 神龙摆尾
 - [JavaScript队列函数和异步执行](http://caibaojian.com/javascript-queue-function.html)
 - [JavaScript Event Loop机制详解与Vue.js中nextTick的实践应用](https://m.aliyun.com/yunqi/articles/204129?spm=5176.mtagdetail.0.0.fZx5vR)
 - [HTML系列：macrotask和microtask](http://www.qingpingshan.com/m/view.php?aid=183193)
+- [import、require、export、module.exports 混合使用详解](https://juejin.im/post/5a2e5f0851882575d42f5609)
 
 ### 混合开发
 - [为什么可以通过URL来调起APP - URL Scheme和Intent](http://www.cnblogs.com/zqzjs/p/7505265.html)
