@@ -69,6 +69,9 @@ NodeJs的深入浅出 | 神龙摆尾
 - [HTML系列：macrotask和microtask](http://www.qingpingshan.com/m/view.php?aid=183193)
 - [import、require、export、module.exports 混合使用详解](https://juejin.im/post/5a2e5f0851882575d42f5609)
 
+### HTTP
+- [你真的会使用XMLHttpRequest吗？](https://segmentfault.com/a/1190000004322487)
+
 ### 混合开发
 - [为什么可以通过URL来调起APP - URL Scheme和Intent](http://www.cnblogs.com/zqzjs/p/7505265.html)
 - [H5页面中尝试调起APP](http://www.cnblogs.com/zqzjs/p/7504236.html)
@@ -83,7 +86,7 @@ NodeJs的深入浅出 | 神龙摆尾
 - [前端的长列表性能优化](http://fishedee.com/%E5%89%8D%E7%AB%AF/2017/02/27/%E5%89%8D%E7%AB%AF%E7%9A%84%E9%95%BF%E5%88%97%E8%A1%A8%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.html)
 - [vue 性能优化](https://github.com/Coffcer/Blog/issues/3)
 
-### 工程架构
+### 前端工程
 - [如何管理一个前端基础架构团队- AdRoll - 众成翻译](https://juejin.im/entry/59c7d35bf265da065754df2f)
 - [QCon北京2014《CardKit & DOMO UI - 移动时代技术与设计的十字路口》技术篇](https://www.douban.com/note/347692465/)
 - [前端工程——基础篇](https://segmentfault.com/r/1250000011218832?shareId=1210000011218833)
