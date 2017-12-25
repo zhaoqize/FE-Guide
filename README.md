@@ -94,6 +94,12 @@ NodeJs的深入浅出 | 神龙摆尾
 - [大公司里怎样开发和部署前端代码？](https://www.zhihu.com/question/20790576)
 - [美团点评境外度假团队前端项目开发实践总结](https://tech.meituan.com/fe-overseas-practice.html)
 
+### AST
+- [astexplorer](https://astexplorer.net/)
+- [javascript-ast](http://resources.jointjs.com/demos/javascript-ast)
+- [esprima](https://github.com/jquery/esprima)
+
+
 ### 业内发展
 - [Kotlin](https://kotlinlang.org/):Kotlin 可以编译成Java字节码，也可以编译成 JavaScript，方便在没有 JVM 的设备上运行
 - [clojurescript](https://github.com/clojure/clojurescript):基于Clojure语言的JS封装
