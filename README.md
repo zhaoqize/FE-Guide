@@ -4,7 +4,7 @@
 > - [前端指南(FE-Guide)](https://github.com/zhaoqize/FE-Guide)
 > - [一点感悟(Life)](https://github.com/zhaoqize/Life)
 
-如果觉得我的文章能给您一点启发,不妨 star✨,想要订阅请 watch👀.
+如果觉得我的整理给您带来一点帮助,不妨 star✨,想要订阅请 watch👀.
 
 ## 目录
 * [前端书籍](#前端书籍)
