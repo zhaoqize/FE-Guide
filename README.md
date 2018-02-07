@@ -61,6 +61,14 @@ NodeJs的深入浅出 | 神龙摆尾
 - [【移动适配】一个像素的border怎么实现](https://segmentfault.com/a/1190000004538413)
 - [视区相关单位vw, vh..简介以及可实际应用场景](http://www.zhangxinxu.com/wordpress/2012/09/new-viewport-relative-units-vw-vh-vm-vmin/)
 - [使用Flexible实现手淘H5页面的终端适配](https://github.com/amfe/article/issues/17)
+- [JavaScript下的setTimeout(fn,0)意味着什么？](http://www.cnblogs.com/silin6/archive/2015/03/12/4333999.html)
+- [JavaScript队列函数和异步执行](http://caibaojian.com/javascript-queue-function.html)
+- [JavaScript Event Loop机制详解与Vue.js中nextTick的实践应用](https://m.aliyun.com/yunqi/articles/204129?spm=5176.mtagdetail.0.0.fZx5vR)
+- [HTML系列：macrotask和microtask](http://www.qingpingshan.com/m/view.php?aid=183193)
+- [import、require、export、module.exports 混合使用详解](https://juejin.im/post/5a2e5f0851882575d42f5609)
+
+### HTTP
+- [你真的会使用XMLHttpRequest吗？](https://segmentfault.com/a/1190000004322487)
 
 ### 混合开发
 - [为什么可以通过URL来调起APP - URL Scheme和Intent](http://www.cnblogs.com/zqzjs/p/7505265.html)
@@ -69,19 +77,26 @@ NodeJs的深入浅出 | 神龙摆尾
 - [Android Studio集成到Genymotion模拟器](http://www.cnblogs.com/zqzjs/p/7411361.html)
 - [VasSonic：手Q开源Hybrid框架介绍](http://www.infoq.com/cn/articles/vassonic-manual-q-open-source-hybrid-framework)
 - [开发首屏广告(Android)简述](http://blog.csdn.net/caroline_wendy/article/details/50183487)
+- [Hybrid APP架构设计思路](https://segmentfault.com/a/1190000004263182)
 
 ### 性能优化
 - [内存管理](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Memory_Management)
 - [前端的长列表性能优化](http://fishedee.com/%E5%89%8D%E7%AB%AF/2017/02/27/%E5%89%8D%E7%AB%AF%E7%9A%84%E9%95%BF%E5%88%97%E8%A1%A8%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.html)
 - [vue 性能优化](https://github.com/Coffcer/Blog/issues/3)
 
-### 工程架构
+### 前端工程
 - [如何管理一个前端基础架构团队- AdRoll - 众成翻译](https://juejin.im/entry/59c7d35bf265da065754df2f)
 - [QCon北京2014《CardKit & DOMO UI - 移动时代技术与设计的十字路口》技术篇](https://www.douban.com/note/347692465/)
 - [前端工程——基础篇](https://segmentfault.com/r/1250000011218832?shareId=1210000011218833)
 - [对无线电商动态化方案的思考](https://github.com/amfe/article/issues/13)
 - [大公司里怎样开发和部署前端代码？](https://www.zhihu.com/question/20790576)
 - [美团点评境外度假团队前端项目开发实践总结](https://tech.meituan.com/fe-overseas-practice.html)
+
+### AST
+- [astexplorer](https://astexplorer.net/)
+- [javascript-ast](http://resources.jointjs.com/demos/javascript-ast)
+- [esprima](https://github.com/jquery/esprima)
+
 
 ### 业内发展
 - [Kotlin](https://kotlinlang.org/):Kotlin 可以编译成Java字节码，也可以编译成 JavaScript，方便在没有 JVM 的设备上运行
@@ -251,6 +266,7 @@ CodeEdit | CodeEdit
 [JSDoc](http://www.css88.com/doc/jsdoc/index.html) | JS生成文档
 [regexr](http://www.regexr.com/) | 正则匹配
 [pxtoem](http://pxtoem.com/) | px转em
+[Unicode字符百科](https://unicode-table.com/cn/#control-character) | 查询各种unicode字符
 
 
 
