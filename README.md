@@ -30,31 +30,9 @@
 * [常用工具](#常用工具)
 
 ## 前端书籍
+<img src="./img/1.jpg"><img src="./img/2.jpg"><img src="./img/3.jpg"><img src="./img/4.jpg"><img src="./img/5.jpg"><img src="./img/6.jpg"><img src="./img/7.jpg"><img src="./img/8.jpg"><img src="./img/9.jpg"><img src="./img/10.jpg"><img src="./img/11.jpg"><img src="./img/12.jpg"><img src="./img/14.jpg"><img src="./img/15.jpg">
 
-书名 | 简介
----|---
-[JavaScript权威指南](http://note.youdao.com/noteshare?id=b6f02ed9c2c6abff05bd9c70fc8cd197&sub=42E4712CF7304F6883F26749085362DD) | 亢龙有悔🐲
-[CSS权威指南](http://note.youdao.com/noteshare?id=cb71b0f276145a64dc79acac8d470c19&sub=419E25D845084C7EA6B1C2D63675495E) | 飞龙在天☁️
-HTML5权威指南 | 见龙在田🌾
-Javascript高级编程设计 | 鸿渐于陆🦌
-[锋利的jQUery](http://note.youdao.com/noteshare?id=0dab9597b5123fce772d3bb6d0594d31&sub=83908E5D2A4B4EE9A16828A7A92390D9) | 潜龙勿用
-[悟透Javascript](http://note.youdao.com/noteshare?id=9ff0a6cfae213546633f6ad192b378a7&sub=E4675C4855274A4899877963EE1F49A8) | 突如其来
-[CSS揭秘](http://note.youdao.com/noteshare?id=3d6f7be65e989692b9106f7ea3c82653&sub=E96D5D08A715498D85D0A56E14750D1D) | 利涉大川🚢
-[JavaScript框架设计](http://note.youdao.com/share/?id=1ff646f8d43840385c15be1bc7b01837&type=note#/) | 震惊百里   
-[Web性能权威指南](http://note.youdao.com/noteshare?id=11bce06160006a71e2cdab2aed90bc0b&sub=D68EF671B4A842DE846985EF880066C4) | 或跃在渊
-[Javascript数据结构与算法](http://note.youdao.com/noteshare?id=763ef67893b37739686e57f51aa4130d&sub=889BE82BC97B4B29AB29D80EE5CA7FDC) | 双龙取水
-[编写可维护的Javascript](http://note.youdao.com/noteshare?id=06108a830b22cafcec30db5446c4bd01&sub=285DB98C19DF4D6085146C37AD27FB7A) |  鱼跃于渊
-[Web前端黑客技术揭秘](http://note.youdao.com/noteshare?id=9d75c42a4d58763e52d028a3921b0b6e&sub=WEB13ce6c4a435c9d543ea77e0569dd2cbe) |  时乘六龙🐲
-[HTTP权威指南](http://note.youdao.com/noteshare?id=820e4e06cb76515b777795da8a1a70b0&sub=6E691A6885A34859BAF637252C6469F0) |  密云不雨🌧️
-[Javascript函数式编程](http://note.youdao.com/noteshare?id=bb9ca71251d184b0fad776bbe217a2e8&sub=4FB94CE55A2542358BFA2EA0BD120408) | 损则有孚
-[NodeJs手册](http://note.youdao.com/noteshare?id=7f0fadee2ba1bbeffde9d99ecd1f3e5a&sub=973E52D1D16A4FA088083B02ADB64C52) | 龙战于野✌️
-[NodeJs开发指南](http://note.youdao.com/noteshare?id=69c672d4b0d61032d162bde2339e7d09&sub=689A58814F414E6EB05240BC4FE4D520) | 履霜冰至🈯️
-[NodeJs](http://note.youdao.com/noteshare?id=d10cbdb5e5b18b7bae040f71c862a8fc&sub=0E2E48E3C8F34BA6A038E72A21BD6209) | 羝羊触蕃😡
-NodeJs的深入浅出 | 神龙摆尾
-
-*const 声明 = 技术书籍内容均来源于网络，仅整理出来供大家学习参考使用。
-
-## 技术文章
+## 文章
 ### 前端基础
 - [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 - [JS进阶 基本类型 引用类型 简单赋值 对象引用](https://segmentfault.com/a/1190000002789651)
