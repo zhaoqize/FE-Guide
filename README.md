@@ -221,6 +221,8 @@ CodeEdit | CodeEdit
 ## 前端测试
 库 | 简介
 --- | ---
+[Puppeteer](https://github.com/GoogleChrome/puppeteer) | Headless Chrome Node API 
+[Jest](https://github.com/facebook/jest) | Delightful JavaScript Testing.
 [Mocha](https://github.com/mochajs/mocha) | ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 [Chai](https://github.com/chaijs/chai) | testing framework for node.js
 [Rewire](https://github.com/jhnns/rewire) | Easy monkey-patching for node.js unit tests
