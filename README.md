@@ -81,8 +81,11 @@
 
 
 ### 业内发展
-- [Kotlin](https://kotlinlang.org/):Kotlin 可以编译成Java字节码，也可以编译成 JavaScript，方便在没有 JVM 的设备上运行
-- [clojurescript](https://github.com/clojure/clojurescript):基于Clojure语言的JS封装
+- [Kotlin](https://kotlinlang.org/)：Kotlin 可以编译成Java字节码，也可以编译成 JavaScript，方便在没有 JVM 的设备上运行
+- [clojurescript](https://github.com/clojure/clojurescript)：基于Clojure语言的JS封装
+- [PWA](https://developers.google.com/web/progressive-web-apps/)：PWA（Progressive Web App），渐进式网络应用
+- [React Native](http://facebook.github.io/react-native/)：基于 React 的跨平台移动应用开发框架
+- [Nodejs](https://nodejs.org/en/)：是一个基于 Chrome V8 引擎的 JavaScript 运行环境
 
 ### 工具使用
 - [Charles从入门到放弃](http://www.cnblogs.com/zqzjs/p/7763406.html)
