@@ -86,6 +86,7 @@
 - [PWA](https://developers.google.com/web/progressive-web-apps/)：PWA（Progressive Web App），渐进式网络应用
 - [React Native](http://facebook.github.io/react-native/)：基于 React 的跨平台移动应用开发框架
 - [Nodejs](https://nodejs.org/en/)：是一个基于 Chrome V8 引擎的 JavaScript 运行环境
+- [小程序](https://developers.weixin.qq.com/miniprogram/dev/api/)
 
 ### 工具使用
 - [Charles从入门到放弃](http://www.cnblogs.com/zqzjs/p/7763406.html)
@@ -214,6 +215,7 @@ CodeEdit | CodeEdit
 [Gulp](https://github.com/gulpjs/gulp) | The streaming build system
 [Fis3](https://github.com/fex-team/fis3) | FIS3 面向前端的工程构建系统
 [Webpack](https://github.com/webpack/webpack) | webpack is a module bundler
+[Rollup](https://github.com/rollup/rollup) | Next-generation ES module bundler https://rollupjs.org
 
 ## 前端包管理器
 库 | 简介
